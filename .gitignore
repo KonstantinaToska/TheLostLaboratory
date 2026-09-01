@@ -1,0 +1,19 @@
+# Godot 4+ specific ignores
+.godot/
+*.translation
+
+# Log and temporary files
+*.log
+game_debug.log
+player_debug.log
+gamemanager_debug.log
+interactable_debug.log
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
